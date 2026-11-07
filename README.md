@@ -212,6 +212,7 @@ A comparison table and accuracy chart are provided to examine the performance of
 
 ### Live Application
 
+**Live URL:** https://genuine-edited-ml-classification.streamlit.app/
 
 ## 7. Project Structure
 
@@ -272,6 +273,6 @@ The results demonstrate how image-derived statistical and texture features can b
 **GitHub Repository:**  
 https://github.com/Praveenksmp06/Genuine-Edited-ML-Classification
 
-**Deployment:** 
+**Deployment:** https://genuine-edited-ml-classification.streamlit.app/
 
 ---
