@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+CASIA2/
+Au/
+Tp/
+CASIA 2 Groundtruth/
+.ruff_cache/
+.streamlit/secrets.toml
+*.zip
+*.log
